@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...FrontEnd
 - 📫 How to reach me ...marcinoles87@gmail.com
 - @ first site for me friend www.auschwitzsaltmine.com
-- little game quiz https://marcinoles87.github.io/quiz/
+
 
 <!---
 marcinoles87/marcinoles87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
