@@ -6,6 +6,7 @@
 - @ first site for me friend www.auschwitzsaltmine.com <br>
 -@ project calculator https://marcinoles87.github.io/calculator/ <br>
 -@ project todolist https://marcinoles87.github.io/todolist/ <br>
+-@ project search-fbi-wanted https://marcinoles87.github.io/fbi-search/ <br>
 
 <!---
 marcinoles87/marcinoles87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
