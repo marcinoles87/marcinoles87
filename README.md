@@ -7,7 +7,7 @@
 -@ project calculator https://marcinoles87.github.io/calculator/ <br>
 -@ project todolist https://marcinoles87.github.io/todolist/ <br>
 -@ project search-fbi-wanted https://marcinoles87.github.io/fbi-search/ <br>
--@ project search-fbi-wanted https://marcinoles87.github.io/shopping-list/ <br>
+-@ project shopping-list https://marcinoles87.github.io/shopping-list/ <br>
 
 
 <!---
