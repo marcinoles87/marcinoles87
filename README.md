@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on ...FrontEnd
 - 📫 How to reach me ...marcinoles87@gmail.com
 
+
 - @ first site for me friend www.auschwitzsaltmine.com <br>
 - - @ second site for me friend https://marcinoles87.github.io/viptour2023 <br>
+- @ live/actual in Poland City weather app https://marcinoles87.github.io/weather2023/
 -@ project calculator https://marcinoles87.github.io/calculator/ <br>
 -@ project todolist https://marcinoles87.github.io/todolist/ <br>
 -@ project search-fbi-wanted https://marcinoles87.github.io/fbi-search/ <br>
