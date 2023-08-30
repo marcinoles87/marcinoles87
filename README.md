@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...React
 - 💞️ I’m looking to collaborate on ...FrontEnd
 - 📫 How to reach me ...marcinoles87@gmail.com
-- My site , look at my on ---> https://marcinoles87.github.io/mysite/
+- My site , personal site ---> https://marcinoles87.github.io/mysite/
 
 -@ notes app https://marcinoles87.github.io/notes-app/ </br>
 -@ another website https://marcinoles87.github.io/website2023/ </br>
