@@ -8,6 +8,7 @@
 -@ strona przedszkola w Krakowie https://marcinoles87.github.io/przedszkole2023/ </br>
 -@ photoapp Add photo to your site https://marcinoles87.github.io/photoapp/ </br>
 -@ home budget app https://marcinoles87.github.io/budgetapp/ </br>
+-@ exercise with API , finder friend like insta or fb https://marcinoles87.github.io/exercise/ </br>
 -@ new Bitcoin Charts with React https://marcinoles87.github.io/bitcoinChart/ </br>
 -@ notes app https://marcinoles87.github.io/notes-app/ </br>
 -@ another website https://marcinoles87.github.io/website2023/ </br>
