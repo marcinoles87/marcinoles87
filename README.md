@@ -5,6 +5,7 @@
 - 📫 How to reach me ...marcinoles87@gmail.com
 
 -@ strona stworzona dla przedszkola w Krakowie www.przedszkole111krakow.idsl.pl </br>
+-@ strona stworzona dla VIPTOURCRACOW GRZEGORZ HALKO www.auschwitzsaltmine.com <br>
 
 -@ bitcoin site for my friend https://marcinoles87.github.io/bitsolana/ </br>
 -@  omdb film search app https://marcinoles87.github.io/movieapp/ </br>
@@ -16,7 +17,6 @@
 -@ new Bitcoin Charts with React https://marcinoles87.github.io/bitcoinChart/ </br>
 -@ notes app https://marcinoles87.github.io/notes-app/ </br>
 -@ another website https://marcinoles87.github.io/website2023/ </br>
--@ first site for me friend www.auschwitzsaltmine.com <br>
 -@ second site for me friend https://marcinoles87.github.io/viptour2023 <br>
 -@ live/actual in Poland City weather app https://marcinoles87.github.io/weather2023/ <br>
 -@ project hangman game https://marcinoles87.github.io/hangman2023/ <br>
