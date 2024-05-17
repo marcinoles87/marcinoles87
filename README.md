@@ -6,6 +6,7 @@
 
 -@ strona stworzona dla przedszkola w Krakowie www.przedszkole111krakow.idsl.pl </br>
 -@ strona stworzona dla VIPTOURCRACOW GRZEGORZ HALKO www.auschwitzsaltmine.com <br>
+-@ strona stworzona dla LUKMAT mechanika https://marcinoles87.github.io/lukmat/ <br>
 
 -@ little site for my football team https://marcinoles87.github.io/oldboy/ </br>
 -@ bitcoin site for my friend https://marcinoles87.github.io/bitsolana/ </br>
