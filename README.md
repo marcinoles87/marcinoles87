@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcinoles87
+- 👋 Hi, I’m Marcin Oleś 
 - 👀 I’m interested in ...HTML , CSS , JS , REACT
 - 🌱 I’m currently learning ...React
 - 💞️ I’m looking to collaborate on ...FrontEnd
