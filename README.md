@@ -7,12 +7,12 @@
 -@ aplikacja do tworzenia szybkich faktur https://marcinoles87.github.io/invoicecreator/ </br>
 -@ strona stworzona dla przedszkola w Krakowie www.przedszkole111krakow.idsl.pl </br>
 -@ strona stworzona dla VIPTOURCRACOW GRZEGORZ HALKO www.auschwitzsaltmine.com <br>
--@ strona stworzona dla LUKMAT mechanika ( watch only in laptop/desktop ) https://marcinoles87.github.io/lukmat/ <br>
--@ strona stworzona dla Viptour G.Halko 2  https://marcinoles87.github.io/vp2024/   <br>
-
+-@ project hangman game https://marcinoles87.github.io/hangman2023/ <br>
+-@ live/actual in Poland City weather app https://marcinoles87.github.io/weather2023/ <br>
 -@ little site for my football team https://marcinoles87.github.io/oldboy/ </br>
--@ bitcoin site for my friend  ( watch only in laptop/desktop ) https://marcinoles87.github.io/bitsolana/ </br>
 -@  omdb film search app  ( watch only in laptop/desktop ) https://marcinoles87.github.io/movieapp/ </br>
+-@ strona stworzona dla LUKMAT mechanika ( watch only in laptop/desktop ) https://marcinoles87.github.io/lukmat/ <br>
+-@ bitcoin site for my friend  ( watch only in laptop/desktop ) https://marcinoles87.github.io/bitsolana/ </br>
 -@ strona przedszkola w Krakowie https://marcinoles87.github.io/przedszkole2023/ </br>
 -@ photoapp Add photo to your site https://marcinoles87.github.io/photoapp/ </br>
 -@ home budget app https://marcinoles87.github.io/budgetapp/ </br>
@@ -22,8 +22,6 @@
 -@ notes app https://marcinoles87.github.io/notes-app/ </br>
 -@ another website ( watch only in laptop/desktop )  https://marcinoles87.github.io/website2023/ </br>
 -@ second site for me friend  ( watch only in laptop/desktop ) https://marcinoles87.github.io/viptour2023 <br>
--@ live/actual in Poland City weather app https://marcinoles87.github.io/weather2023/ <br>
--@ project hangman game https://marcinoles87.github.io/hangman2023/ <br>
 -@ project calculator https://marcinoles87.github.io/calculator/ <br>
 -@ project todolist https://marcinoles87.github.io/todolist/ <br>
 -@ project search-fbi-wanted https://marcinoles87.github.io/fbi-search/ <br>
