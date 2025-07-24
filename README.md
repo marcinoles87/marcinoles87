@@ -7,6 +7,7 @@
 -@ aplikacja do tworzenia szybkich faktur https://marcinoles87.github.io/invoicecreator/ </br>
 -@ strona stworzona dla przedszkola w Krakowie www.przedszkole111krakow.idsl.pl </br>
 -@ strona stworzona dla VIPTOURCRACOW GRZEGORZ HALKO www.auschwitzsaltmine.com <br>
+-@ strona biblioteki / dodawanie/wyszukiwanie ksiazek z zbioru https://marcinoles87.github.io/biblioteka/ </br>
 -@ project hangman game https://marcinoles87.github.io/hangman2023/ <br>
 -@ live/actual in Poland City weather app https://marcinoles87.github.io/weather2023/ <br>
 -@ little site for my football team https://marcinoles87.github.io/oldboy/ </br>
