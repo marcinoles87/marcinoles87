@@ -19,7 +19,6 @@
 -@ home budget app https://marcinoles87.github.io/budgetapp/ </br>
 -@ Cantor , money exchange https://marcinoles87.github.io/exchangemoney/ </br>
 -@ exercise with API , finder friend like insta or fb https://marcinoles87.github.io/exercise/ </br>
--@ new Bitcoin Charts with React https://marcinoles87.github.io/bitcoinChart/ </br>
 -@ notes app https://marcinoles87.github.io/notes-app/ </br>
 -@ another website ( watch only in laptop/desktop )  https://marcinoles87.github.io/website2023/ </br>
 -@ second site for me friend  ( watch only in laptop/desktop ) https://marcinoles87.github.io/viptour2023 <br>
