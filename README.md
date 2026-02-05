@@ -5,13 +5,13 @@
 - 📫 How to reach me ...marcinoles87@gmail.com
 
 -@ aplikacja do tworzenia reklamacji( React + SQL + Express + Render ) https://marcinoles87.github.io/reklamacje/ </br>
--@ aplikacja do tworzenia szybkich faktur https://marcinoles87.github.io/invoicecreator/ </br>
--@ strona stworzona dla przedszkola w Krakowie www.przedszkole111krakow.idsl.pl </br>
+-@ aplikacja do tworzenia szybkich faktur (React + AXIOS ) https://marcinoles87.github.io/invoicecreator/ </br>
+-@ strona stworzona dla przedszkola w Krakowie (React + Bootstrap ) www.przedszkole111krakow.idsl.pl </br>
 -@ strona stworzona dla VIPTOURCRACOW GRZEGORZ HALKO www.auschwitzsaltmine.com <br>
 -@ strona biblioteki / dodawanie/wyszukiwanie ksiazek z zbioru https://marcinoles87.github.io/biblioteka/ </br>
--@ live/actual in Poland City weather app https://marcinoles87.github.io/weather2023/ <br>
+-@ live/actual in Poland City weather app (React + Fetch Data ) https://marcinoles87.github.io/weather2023/ <br>
 -@ little site for my football team https://marcinoles87.github.io/oldboy/ </br>
--@  omdb film search app  https://marcinoles87.github.io/movieapp/ </br>
+-@  omdb film search app (React + AXIOS )  https://marcinoles87.github.io/movieapp/ </br>
 -@ project hangman game https://marcinoles87.github.io/hangman2023/ <br>
 -@ strona stworzona dla LUKMAT mechanika https://marcinoles87.github.io/lukmat/ <br>
 -@ bitcoin site for my friend  ( watch only in laptop/desktop ) https://marcinoles87.github.io/bitsolana/ </br>
